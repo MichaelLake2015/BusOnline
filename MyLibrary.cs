@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,8 +29,8 @@ namespace B
 {
     public class MyClass
     {
-        public void Show(){
-           Console.WriteLine("Hello");
+        public void Show(){ 
+           Console.WriteLine("Hello world");
         }
     }
 }
