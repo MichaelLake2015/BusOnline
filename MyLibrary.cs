@@ -29,6 +29,8 @@ namespace B
 {
     public class MyClass
     {
-        
+        public void Show(){
+           Console.WriteLine("Hello");
+        }
     }
 }
