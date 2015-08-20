@@ -29,9 +29,6 @@ namespace B
 {
     public class MyClass
     {
-        public void In()
-        {
-            Console.WriteLine("namespace B");
-        }
+        
     }
 }
